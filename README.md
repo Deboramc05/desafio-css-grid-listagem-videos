@@ -10,7 +10,7 @@ Esse projeto foi proposto pela expert Michele Ambrosio da plataforma educacional
 
 ## 🖥 Preview:
 ![Imagem do Projeto](assets/img/projeto-grid-listagem-youtube.PNG)
-- Venha ver como ficou o projeto acessando [aqui nesse link do GithubPages]
+- Venha ver como ficou o projeto acessando [aqui nesse link do GithubPages](https://deboramc05.github.io/desafio-css-grid-listagem-videos/)
 
 
 ## 🤔 O que foi feito nesse projeto:
